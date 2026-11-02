@@ -12,4 +12,4 @@ Founded by a team of students who are skilled programmers, we are a mix of diffe
 Ideas that are original and creative are always welcome! Using the links in the footer, you can reach out to us if you are interested in contributing to one of our projects or starting a new one.
 
 # What does SoftwareSS own?
-SoftwareSS currently owns [II Games](https://iigames.github.io), Task Group and [Helli3 Chat](https://helli3chat.somee.com/)
+SoftwareSS currently owns Task Group and [Helli3 Chat](https://helli3chat.somee.com/)
